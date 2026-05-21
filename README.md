@@ -30,14 +30,7 @@ The project focuses on detecting mental states such as relaxation, concentration
 - Real-time EEG Dashboard
 
 ## System Architecture
-1. EEG electrodes capture brain signals from the scalp
-2. BioAmp EXG Pill amplifies weak EEG signals
-3. Arduino converts analog signals into digital data
-4. Signals are filtered and processed to remove noise
-5. Features are extracted from the EEG signals
-6. Machine Learning models classify mental states
-7. Results are displayed on the dashboard in real time
-8. Session data is stored and summarized
+![System Architecture](backend/Whatsapp\ Image\2026-05-07\ at\10.00.19.jpeg)
 
 ## Modules
 ### Module 1 – Patient Details Acquisition
