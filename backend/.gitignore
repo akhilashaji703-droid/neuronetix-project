@@ -1,0 +1,4 @@
+.env
+patients/
+__pycache__/
+*.pyc
