@@ -30,7 +30,7 @@ The project focuses on detecting mental states such as relaxation, concentration
 - Real-time EEG Dashboard
 
 ## System Architecture
-![System Architecture](asset/whatsapp%20image%202026-05-07%20at%2010.00.19.png)
+![System Architecture](assets/system-architecture.jpeg)
 
 ## Modules
 ### Module 1 – Patient Details Acquisition
